@@ -25,9 +25,3 @@ La base de données répond aux besoins suivants :
 - **Programmes d'entraînement**
 - **Personnel administratif**
 
-## Exemples d'Opérations CRUD
-
-### Insérer un Nouveau Membre
-```sql
-INSERT INTO Membres (Nom, DateNaissance, Sexe, Telephone) 
-VALUES ('Alex Johnson', '1990-07-15', 'Masculin', '1234567890');
